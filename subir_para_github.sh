@@ -4,7 +4,7 @@ USUARIO="BOBERNARDO"
 REPO="certificados-pdf"
 
 git init
-git remote add origin https://github.com/$USUARIO/$REPO.git
+git remote add origin https://github.com/$BOBERNARDO/$CERTIFICADOS-PDF.git
 git add .
 git commit -m "upload em massa dos certificados"
 git branch -M main
